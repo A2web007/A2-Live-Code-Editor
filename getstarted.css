@@ -1,11 +1,13 @@
-@-ms-viewport{
-  width: device-width;
-}
+
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+@-ms-viewport{
+  width: device-width;
 }
 .logo img{
   position: absolute;
